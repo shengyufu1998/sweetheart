@@ -1,0 +1,59 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>无标题文档</title>
+<style type="text/css">
+body {
+	background-image: url(timg.jpg);
+	background-repeat: no-repeat;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+body,td,th {
+	font-family: "幼圆", "微软雅黑";
+	font-size: 24px;
+}
+.my hometown {
+}
+</style>
+</head>
+
+<body>
+<p>&nbsp; </p>
+<p>&nbsp;</p>
+<div style="text-align:center"><p>计算机导论</p>
+<p>我的专业志趣：<a href="专业志向.html">网页版</a></p>
+<p><a href="自我介绍.docx">点击下载</a></p>
+<p>专业排版项目PDF：<a href="软工920-傅圣瑜 专业论文排版.pdf">点击下载</a></p>
+<p>数据处理项目的Excel文件：<a href="软工5920傅圣瑜_Excel数据处理实验.xslx.xlsx">点击下载</a></p>
+<p> 我的家乡项目的PPT文件：<a href="计导-软工920-傅圣瑜 我的家乡.pptx">点击下载</a></p>
+<p>我的家乡项目网页版：<a href="my hometown.html">厦门</a>
+</p>
+<p>c程序网站：<a href="未命名2_cpp.htm">c</a></p>
+<div class="my hometown"></div></div>
+<p>
+  <figure>
+  </figure>
+</p>
+<figure>
+  <figcaption></figcaption>
+</figure>
+<p>
+  <figure>
+  </figure>
+</p>
+<figure>
+  <figcaption></figcaption>
+</figure>
+<p>
+  <figure>
+  </figure>
+</p>
+<figure>
+  <figcaption> </figcaption>
+</figure>
+</body>
+</html>
